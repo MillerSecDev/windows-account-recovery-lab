@@ -1,0 +1,12 @@
+# Sensitive Windows credential artifacts
+SAM
+SYSTEM
+hash.txt
+guesses.txt
+*.hive
+*.pot
+*.potfile
+
+# Operating-system files
+Thumbs.db
+.DS_Store
