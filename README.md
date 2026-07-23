@@ -1,5 +1,3 @@
-# windows-account-recovery-lab
-Authorized Windows security lab documenting offline account recovery and credential-protection lessons.
 # Windows 7 Local Account Recovery Lab
 
 > **Authorized-use statement:** This lab was performed only on a personally
